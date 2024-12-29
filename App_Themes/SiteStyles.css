@@ -1,0 +1,68 @@
+body {
+    margin: 8px !important;   
+}
+
+#form1, #form2 {
+    padding: 8px;
+}
+
+.input {
+    width: 250px !important;
+}
+
+.row {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.errorMsg {
+    padding: 0 16px;
+}
+
+.dropdown {
+    width: 250px !important;
+    height: 30px !important;
+}
+
+.btn {
+    width: 125px !important;
+    height: 40px !important;
+}
+
+.table {
+    max-width: 1024px !important;
+}
+
+.center-div {
+    display: flex;
+    align-items: center;
+}
+
+.center-div > label {
+    font-size: 18px;
+}
+
+#coursesCheckboxList td {
+    padding-bottom: 8px;
+}
+#coursesCheckboxList td:first-child {
+    padding-top: 8px;
+}
+
+
+    #coursesCheckboxList input {
+    margin-right: 8px;
+}
+
+#coursesCheckboxList label {
+    font-size: 17px;
+}
+
+.errorMsg, .coursesMsg {
+    font-size: 20px;
+    margin: 20px 0 0 0;
+}
+
+.errorSpan {
+    font-size: 17px !important;
+}
